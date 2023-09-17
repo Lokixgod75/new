@@ -4,9 +4,9 @@
     "description": "X-asena Multi Device whatsappbot",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/V1P3R-X/X-AsenaDuplicated",
-    "website": "https://github.com/V1P3R-X/X-AsenaDuplicated",
-    "success_url": "https://github.com/V1P3R-X/X-AsenaDuplicated",
+    "repository": "https://github.com/Lokixgod75/new",
+    "website": "https://github.com/Lokixgod75/new",
+    "success_url": "https://github.com/Lokixgod75/new",
     "stack": "container",
     "env": {
         "ANTI_LINK": {
